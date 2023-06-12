@@ -1,4 +1,4 @@
-This feed provides a list of fingerprints (MD5,SHA1,SHA256) of leaked and successfully cracked certificates potentially usable to properly sign malware and/or other artifacts.
+This feed provides a list of fingerprints (MD5,SHA1,SHA256) of leaked and successfully cracked certificates potentially usable by cyber-criminals to properly sign malware and/or other artifacts.
 
 Threat Description:
 
